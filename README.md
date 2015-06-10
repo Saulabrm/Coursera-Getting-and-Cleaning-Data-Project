@@ -17,7 +17,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 - Now you can run the clean data reproduced by the "run_analysis.R"  read.table("Clean_Data_Averages.txt")
   
-*The size of this file would be 180*68. There are 30 different subjects, and 6 activities. (30x6=180 rows)*
+*The size of this file would be 180x68. There are 30 different subjects, and 6 activities. (30x6=180 rows)*
 
 
 
