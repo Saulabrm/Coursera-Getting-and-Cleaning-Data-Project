@@ -59,4 +59,4 @@ for (s in 1:numSubjects) {
     row = row+1
   }
 }
-write.table(result, "Clean_Data_Averages.txt")
+write.table(result, "Clean_Data_Averages.txt", row.name=FALSE)
